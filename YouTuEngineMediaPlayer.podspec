@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.authors      = { 'Jerry' => 'jerry.shi@5253w.com'}
   s.platform     = :ios, "8.1"
   s.source       = { :git => "https://github.com/yuugames/youku-sdk.git", :tag => s.version }
-  s.source_files = 'YouTuEngineMediaPlayer', 'YouTuEngineMediaPlayer/**/'
+  s.source_files = 'YouTuEngineMediaPlayer', 'YouTuEngineMediaPlayer/*/*'
   s.requires_arc = true
 end
