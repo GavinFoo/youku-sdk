@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name         = "YouTuEngineMediaPlayer.podspec"
-  s.version      = "1.0.0"
+  s.name         = "YouTuEngineMediaPlayer"
+  s.version      = "v1.0.0"
   s.summary      = "The package of YouKuSDK"
   s.homepage     = "http://www.5253w.com"
   s.license      = "MIT"
